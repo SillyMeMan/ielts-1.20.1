@@ -17,7 +17,7 @@
 	"entrypoints": {
 		"main": [
 			{
-				"value": "net.vinh.IELTS",
+				"value": "net.vinh.ielts.IELTS",
 				"adapter": "kotlin"
 			}
 		]
